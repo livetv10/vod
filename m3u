@@ -10,7 +10,7 @@ http://192.168.2.2:5004/auto/v2.3?transcode=mobile.m3u
 #EXTINF:-1, BUZZR
 http://192.168.2.2:5004/auto/v5.2?transcode=mobile
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg",NBC4 DC News 
-http://192.168.2.2:5004/auto/v4.1?transcode=mobile.m3u
+http://192.168.2.2:5004/auto/v4.1?transcode=mobile
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",Fox5 DC News 
 http://192.168.2.2:5004/auto/v5.1?transcode=mobile.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
