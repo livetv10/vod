@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
-http://192.168.2.2:5004/auto/v2.1.m3u
+http://192.168.2.2:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://www.cocolatv.com/stations_files/cozitv.png" group-title="USA",COZI TV
-http://192.168.2.2:5004/auto/v4.2
+http://192.168.2.2:5004/auto/v4.2?transcode=mobile
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE
-http://192.168.2.2:5004/auto/v2.3
+http://192.168.2.2:5004/auto/v2.3?transcode=mobile
 #EXTINF:-1, BUZZR
-http://192.168.2.2:5004/auto/v5.2
+http://192.168.2.2:5004/auto/v5.2?transcode=mobile
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg",NBC4 DC News 
-http://192.168.2.2:5004/auto/v4.1?transcode=mobile
+http://192.168.2.2:5004/auto/v4.1?transcode=mobile.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",Fox5 DC News 
-http://192.168.2.2:5004/auto/v5.1.m3u
+http://192.168.2.2:5004/auto/v5.1?transcode=mobile
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA",MeTV
-http://192.168.2.2:5004/auto/v5.3.m3u
+http://192.168.2.2:5004/auto/v5.3?transcode=mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.2.2:5004/auto/v7.1/live/lescobar/lescobar/824.ts
 #EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="USA",CBS
-http://192.168.2.2:5004/auto/v13.1
+http://192.168.2.2:5004/auto/v13.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956547306630742016/wzqdScj6_200x200.jpg",WB54 BALTIMORE
-http://192.168.2.2:5004/auto/v54.1
+http://192.168.2.2:5004/auto/v54.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",FOX 5 PLUS DC
-http://192.168.2.2:5004/auto/v20.1
+http://192.168.2.2:5004/auto/v20.1?transcode=mobile
 #EXTINF:-1 tvg-logo="http://bobpaff.com/wp-content/uploads/2011/01/fox_45_Baltimore.jpg",FOX 45 BALTIMORE
-http://192.168.2.2:5004/auto/v45.1
+http://192.168.2.2:5004/auto/v45.1?transcode=mobile
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png",PBS KIDS
-http://192.168.2.2:5004/auto/v26.3
+http://192.168.2.2:5004/auto/v26.3?transcode=mobile
 #EXTINF:-1,tvg-logo="https://images.cwtv.com/images/shows/og-image/cwtv-og-image.png",CW DC
-http://192.168.2.2:5004/auto/v50.1
+http://192.168.2.2:5004/auto/v50.1?transcode=mobile
 #EXTINF:-1,tvg-logo="https://businesspost.ng/wp-content/uploads/2017/06/telemundo.jpg",TELEMONDO HD
-http://192.168.2.2:5004/auto/v44.1
+http://192.168.2.2:5004/auto/v44.1?transcode=mobile
 #EXTINF:-1,tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png",ION TV
-http://192.168.2.2:5004/auto/v66.1
+http://192.168.2.2:5004/auto/v66.1?transcode=mobile
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/profile_images/834817242256642048/XANZXyfO_400x400.jpg",CHARGE! HD
-http://192.168.2.2:5004/auto/v54.4
+http://192.168.2.2:5004/auto/v54.4?transcode=mobile
 #EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE 
-http://192.168.2.2:5004/auto/v66.3
+http://192.168.2.2:5004/auto/v66.3?transcode=mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
