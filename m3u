@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC 2.1
 http://192.168.1.163:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1,tvg-logo="http://www.cocolatv.com/stations_files/cozitv.png" group-title="USA",COZI TV
-http://192.168.1.163:5004/auto/v4.2?transcode=mobile
+http://192.168.1.163:5004/auto/v4.2
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE
-http://192.168.1.163:5004/auto/v2.3?transcode=mobile
+http://192.168.1.163:5004/auto/v2.3
 #EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg"group-title="USA LOCAL",NBC4 DC News-WRC 
 http://192.168.1.163:5004/auto/v4.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA LOCAL", FOX5 HD-WTTG 
