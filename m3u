@@ -33,19 +33,3 @@ http://192.168.1.163:5004/auto/v66.1?transcode=mobile
 http://192.168.1.163:5004/auto/v54.4?transcode=mobile
 #EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg",ION LIFE 
 http://192.168.1.163:5004/auto/v66.3?transcode=mobile
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
-http://shacktv.com:8080/live/2685812908/3730491015/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p06PmVt.png" group-title="USA",ABC News
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-images-1.medium.com/max/1412/1*8TFZ5znjPDeV9A82CC7njg.png" group-title="USA",Cheddar
-https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xGjchpW.png" group-title="USA",District of Columbia Network
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQpCSh8.png" group-title="USA",District Knowledge Network
-http://video.oct.dc.gov/out/u/96_4.m3u8
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" group-title="USA",Flicks of Fury
-https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA LOCAL",NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/00000000001ae8c0/d0d1449c-11aa-492a-a9ff-1de817293d5c.jpg",group-title="USA LOCAL",Fox 5 DC News
-https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
