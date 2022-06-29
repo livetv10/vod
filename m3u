@@ -9,7 +9,7 @@ http://192.168.105.163:5004/auto/v5.1
 http://192.168.105.163:5004/auto/v7.1
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA", CBS
 http://192.168.105.163:5004/auto/v9.1
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", CW DC
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51306/s51306_h3_aa.png", CW DC
 http://192.168.105.163:5004/auto/v50.1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
