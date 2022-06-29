@@ -3,18 +3,17 @@
 http://192.168.105.163:5004/auto/v4.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.105.163:5004/auto/v2.1?transcode=mobile
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA", COZI TV
-http://192.168.105.163:5004/auto/v4.2
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg"group-title="USA, BOUNCE
-http://192.168.105.163:5004/auto/v2.3
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA LOCAL", FOX5 HD-WTTG 
-http://192.168.105.163:5004/auto/v5.1 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
-http://192.168.105.163:5004/auto/v5.3
+http://192.168.105.163:5004/auto/v5.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", ABC 7.1
 http://192.168.105.163:5004/auto/v7.1
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png" group-title="USA", CBS
 http://192.168.105.163:5004/auto/v9.1
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", CW DC
+http://192.168.105.163:5004/auto/v50.1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
+http://192.168.105.163:5004/auto/v5.3
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", Court TV
 http://192.168.105.163:5004/auto/v54.1
 #EXTINF:-1 tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg",FOX 5 PLUS DC
@@ -23,8 +22,7 @@ http://192.168.105.163:5004/auto/v20.1
 http://192.168.105.163:5004/auto/v45.1
 #EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51a4u%2BNwZFL.png", PBS KIDS
 http://192.168.105.163:5004/auto/v26.3
-#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png", CW DC
-http://192.168.105.163:5004/auto/v50.1
+
 #EXTINF:-1,tvg-logo="https://businesspost.ng/wp-content/uploads/2017/06/telemundo.jpg",TELEMONDO HD
 http://192.168.105.163:5004/auto/v44.1
 #EXTINF:-1,tvg-logo="https://364bb1b8faea5923fe26-d1e1eff15c981e296a91bd09c3814b40.ssl.cf5.rackcdn.com/global/iOS_Retina.png", ION TV
@@ -33,3 +31,7 @@ http://192.168.105.163:5004/auto/v66.1
 http://192.168.105.163:5004/auto/v54.4
 #EXTINF:-1 tvg-logo="https://bdfa30d81b75f9f67a08-6fd1a145e6552bb032ac33726f2a2e11.ssl.cf5.rackcdn.com/global/IONLifeDefault.jpg", Court TV
 http://192.168.105.163:5004/auto/v66.3
+#EXTINF:-1,tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45736/s78851_h3_aa.png"group-title="USA", COZI TV
+http://192.168.105.163:5004/auto/v4.2
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg"group-title="USA, BOUNCE
+http://192.168.105.163:5004/auto/v2.3
