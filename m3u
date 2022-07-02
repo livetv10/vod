@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59539/s14767_h3_aa.png"group-title="USA, TBN
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59539/s14767_h3_aa.png"group-title="USA,TBN
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",NBC4 DC News-WRC 
 http://192.168.105.163:5004/auto/v4.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
