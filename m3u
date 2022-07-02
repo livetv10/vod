@@ -6,7 +6,7 @@ http://192.168.105.163:5004/auto/v4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.105.163:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA",FOX5 HD-WTTG 
-http://192.168.105.163:5004/auto/v5.1
+http://192.168.105.163:5004/auto/v5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", ABC 7
 http://192.168.105.163:5004/auto/v7.1
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png"group-title="USA", CBS
