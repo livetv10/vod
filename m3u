@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59539/s14767_h3_aa.png"group-title="USA, Hallmark
 https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",NBC4 DC News-WRC 
-http://192.168.105.163:5004/auto/v4.1
+http://192.168.105.163:5004/auto/v4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://192.168.105.163:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA",FOX5 HD-WTTG 
