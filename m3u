@@ -36,8 +36,8 @@ http://51.161.118.146:8080/ISG03_ABC_WASHINGTON_DC_WJLA/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2151652_cbs-hd-cbs-hd-channel-logo.png"group-title="USA", CBS
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA", Hallmark Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",TBN
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.adweek.com/tvspy/wp-content/uploads/sites/4/2015/10/WRC-logo.jpg" group-title="USA",NBC4 DC News-WRC 
 http://192.168.20.227:8080
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-5-logo-58AD92FB3A-seeklogo.com.png"group-title="USA",FOX5 HD-WTTG 
