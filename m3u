@@ -13,7 +13,7 @@ http://192.168.105.163:5004/auto/v9.1
 http://192.168.105.163:5004/auto/v50.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8osPUfR.png" group-title="USA", MeTV
 http://192.168.105.163:5004/auto/v5.3
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32744/s53098_h3_aa.png"group-title="USA", Court TV
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/103249/s111043_h3_aa.png"group-title="USA", Court TV
 http://192.168.105.163:5004/auto/v54.1
 #EXTINF:-1 tvg-logo="https://media.fox5DC.com/media.fox5dc.com/photo/2017/07/16/WDCA-Fox5Plus-170523-LogoForWeb_1280x720_1500256698203_3805113_ver1.0_640_360.jpg"group-title="USA",FOX 5 PLUS DC
 http://192.168.105.163:5004/auto/v20.1
